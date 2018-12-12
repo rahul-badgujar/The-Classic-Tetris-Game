@@ -1,0 +1,784 @@
+# depslib dependency file v1.0
+1541392047 source:d:\programming essentials\ext. libraries\the snake game ( game engine)\main.cpp
+	"Game.h"
+
+1541571630 d:\programming essentials\ext. libraries\the snake game ( game engine)\game.h
+	<iostream>
+	<string>
+	<sstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\begin_code.h
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\close_code.h
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519932852 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362934 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772768 d:\programming essentials\ext. libraries\the snake game ( game engine)\sdl_gl program kit\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1541571923 source:d:\programming essentials\ext. libraries\the snake game ( game engine)\game.cpp
+	"Game.h"
+
+1542274092 source:d:\programming essentials\my programs\the classic tetris game\game.cpp
+	"GameCanvas.h"
+	"Block.h"
+	"soundHandler.h"
+
+1542209567 d:\programming essentials\my programs\the classic tetris game\game.h
+	<iostream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\begin_code.h
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\close_code.h
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519932852 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362934 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772768 d:\programming essentials\my programs\the classic tetris game\sdl_gl program kit\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1542209183 source:d:\programming essentials\my programs\the classic tetris game\main.cpp
+	"Game.h"
+
+1542166633 source:d:\programming essentials\my programs\the classic tetris game\tiles.cpp
+	"Tiles.h"
+
+1542124977 d:\programming essentials\my programs\the classic tetris game\tiles.h
+	"Game.h"
+
+1542213475 d:\programming essentials\my programs\the classic tetris game\gamecanvas.h
+	"Game.h"
+	"Tiles.h"
+	"imageHandler.h"
+
+1542104148 d:\programming essentials\my programs\the classic tetris game\piece.h
+	"Game.h"
+	"Tiles.h"
+
+1542214002 source:d:\programming essentials\my programs\the classic tetris game\gamecanvas.cpp
+	"GameCanvas.h"
+
+1542103885 source:d:\programming essentials\my programs\the classic tetris game\piece.cpp
+	"Piece.h"
+
+1542212696 source:d:\programming essentials\my programs\the classic tetris game\imagehandler.cpp
+	"imageHandler.h"
+
+1542212332 d:\programming essentials\my programs\the classic tetris game\imagehandler.h
+	"Game.h"
+
+1542272002 source:d:\programming essentials\my programs\the classic tetris game\block.cpp
+	"Block.h"
+	"soundHandler.h"
+	"GameCanvas.h"
+
+1542212895 d:\programming essentials\my programs\the classic tetris game\block.h
+	"Game.h"
+
+1542193434 d:\programming essentials\my programs\the classic tetris game\soundhandler.h
+	"Game.h"
+
+1542193650 source:d:\programming essentials\my programs\the classic tetris game\soundhandler.cpp
+	"soundHandler.h"
+
