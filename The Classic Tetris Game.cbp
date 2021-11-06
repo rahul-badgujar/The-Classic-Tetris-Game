@@ -40,11 +40,21 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
-			<Add directory="D:/Programming Essentials/My Programs/The Classic Tetris Game/SDL_GL Program Kit/include" />
+			<Add directory="../The Snake Game/SDL2/include/SDL2" />
 		</Compiler>
 		<Linker>
 			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer" />
-			<Add directory="D:/Programming Essentials/My Programs/The Classic Tetris Game/SDL_GL Program Kit/lib" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2.dll.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2_image.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2_image.dll.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2_mixer.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2_mixer.dll.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2_test.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2_ttf.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2_ttf.dll.a" />
+			<Add library="../The Snake Game/SDL2/lib/libSDL2main.a" />
+			<Add directory="../The Snake Game/SDL2/lib" />
 		</Linker>
 		<Unit filename="Block.cpp" />
 		<Unit filename="Block.h" />
@@ -60,9 +70,6 @@
 		<Unit filename="soundHandler.cpp" />
 		<Unit filename="soundHandler.h" />
 		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
