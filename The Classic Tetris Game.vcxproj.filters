@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Block.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameCanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\ImageHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\SoundHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Tiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Block.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameBackground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameCanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\ImageHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\SoundHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Tiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\begin_code.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\close_code.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_atomic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_audio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_bits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_blendmode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_clipboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_cpuinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_egl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_endian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_error.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_events.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_filesystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_gamecontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_gesture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_haptic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_hints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_keyboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_keycode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_loadso.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_locale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_messagebox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_metal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_mixer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_mouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_mutex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_name.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengl_glext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengles2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengles2_gl2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengles2_gl2ext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengles2_gl2platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_opengles2_khrplatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_pixels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_power.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_quit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_rect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_render.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_revision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_rwops.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_scancode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_sensor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_stdinc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_surface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_syswm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_compare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_crc32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_font.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_fuzzer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_harness.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_images.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_md5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_memory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_test_random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_thread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_touch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_ttf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_video.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SDL2\SDL_vulkan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lib\x64\libFLAC-8.dll" />
+    <None Include="lib\x64\libfreetype-6.dll" />
+    <None Include="lib\x64\libjpeg-9.dll" />
+    <None Include="lib\x64\libmodplug-1.dll" />
+    <None Include="lib\x64\libmpg123-0.dll" />
+    <None Include="lib\x64\libogg-0.dll" />
+    <None Include="lib\x64\libopus-0.dll" />
+    <None Include="lib\x64\libopusfile-0.dll" />
+    <None Include="lib\x64\libpng16-16.dll" />
+    <None Include="lib\x64\libtiff-5.dll" />
+    <None Include="lib\x64\libvorbis-0.dll" />
+    <None Include="lib\x64\libvorbisfile-3.dll" />
+    <None Include="lib\x64\libwebp-7.dll" />
+    <None Include="lib\x64\SDL2.dll" />
+    <None Include="lib\x64\SDL2_image.dll" />
+    <None Include="lib\x64\SDL2_mixer.dll" />
+    <None Include="lib\x64\SDL2_ttf.dll" />
+    <None Include="lib\x64\zlib1.dll" />
+    <None Include="lib\x86\libFLAC-8.dll" />
+    <None Include="lib\x86\libfreetype-6.dll" />
+    <None Include="lib\x86\libjpeg-9.dll" />
+    <None Include="lib\x86\libmodplug-1.dll" />
+    <None Include="lib\x86\libmpg123-0.dll" />
+    <None Include="lib\x86\libogg-0.dll" />
+    <None Include="lib\x86\libopus-0.dll" />
+    <None Include="lib\x86\libopusfile-0.dll" />
+    <None Include="lib\x86\libpng16-16.dll" />
+    <None Include="lib\x86\libtiff-5.dll" />
+    <None Include="lib\x86\libvorbis-0.dll" />
+    <None Include="lib\x86\libvorbisfile-3.dll" />
+    <None Include="lib\x86\libwebp-7.dll" />
+    <None Include="lib\x86\SDL2.dll" />
+    <None Include="lib\x86\SDL2_image.dll" />
+    <None Include="lib\x86\SDL2_mixer.dll" />
+    <None Include="lib\x86\SDL2_ttf.dll" />
+    <None Include="lib\x86\zlib1.dll" />
+    <None Include="assets\fonts\read-this.html" />
+    <None Include="assets\fonts\typodermic-eula-02-2014.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="lib\x64\LICENSE.FLAC.txt" />
+    <Text Include="lib\x64\LICENSE.freetype.txt" />
+    <Text Include="lib\x64\LICENSE.jpeg.txt" />
+    <Text Include="lib\x64\LICENSE.modplug.txt" />
+    <Text Include="lib\x64\LICENSE.mpg123.txt" />
+    <Text Include="lib\x64\LICENSE.ogg-vorbis.txt" />
+    <Text Include="lib\x64\LICENSE.opus.txt" />
+    <Text Include="lib\x64\LICENSE.opusfile.txt" />
+    <Text Include="lib\x64\LICENSE.png.txt" />
+    <Text Include="lib\x64\LICENSE.tiff.txt" />
+    <Text Include="lib\x64\LICENSE.webp.txt" />
+    <Text Include="lib\x64\LICENSE.zlib.txt" />
+    <Text Include="lib\x86\LICENSE.FLAC.txt" />
+    <Text Include="lib\x86\LICENSE.freetype.txt" />
+    <Text Include="lib\x86\LICENSE.jpeg.txt" />
+    <Text Include="lib\x86\LICENSE.modplug.txt" />
+    <Text Include="lib\x86\LICENSE.mpg123.txt" />
+    <Text Include="lib\x86\LICENSE.ogg-vorbis.txt" />
+    <Text Include="lib\x86\LICENSE.opus.txt" />
+    <Text Include="lib\x86\LICENSE.opusfile.txt" />
+    <Text Include="lib\x86\LICENSE.png.txt" />
+    <Text Include="lib\x86\LICENSE.tiff.txt" />
+    <Text Include="lib\x86\LICENSE.webp.txt" />
+    <Text Include="lib\x86\LICENSE.zlib.txt" />
+    <Text Include="assets\fonts\Halo 3 Font Readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\x64\SDL2.lib" />
+    <Library Include="lib\x64\SDL2_image.lib" />
+    <Library Include="lib\x64\SDL2_mixer.lib" />
+    <Library Include="lib\x64\SDL2_ttf.lib" />
+    <Library Include="lib\x64\SDL2main.lib" />
+    <Library Include="lib\x64\SDL2test.lib" />
+    <Library Include="lib\x86\SDL2.lib" />
+    <Library Include="lib\x86\SDL2_image.lib" />
+    <Library Include="lib\x86\SDL2_mixer.lib" />
+    <Library Include="lib\x86\SDL2_ttf.lib" />
+    <Library Include="lib\x86\SDL2main.lib" />
+    <Library Include="lib\x86\SDL2test.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="assets\fonts\Halo3.ttf" />
+    <Font Include="assets\fonts\neuropol.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\images\gameBackground.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\images\gameOver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\images\howToPlay.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\images\Tiles.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\images\title.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\images\transparent.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="assets\music\destructionEffect.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\music\gameOverEffect.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\music\movementEffect.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\music\tetrisBGM.mp3" />
+  </ItemGroup>
+</Project>
