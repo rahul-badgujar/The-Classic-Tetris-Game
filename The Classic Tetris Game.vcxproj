@@ -284,6 +284,7 @@
     <None Include="lib\x86\SDL2_mixer.dll" />
     <None Include="lib\x86\SDL2_ttf.dll" />
     <None Include="lib\x86\zlib1.dll" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="assets\fonts\Halo 3 Font Readme.txt" />

@@ -337,6 +337,7 @@
     <None Include="assets\fonts\read-this.html" />
     <None Include="assets\fonts\typodermic-eula-02-2014.pdf" />
     <None Include=".gitignore" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="lib\x64\LICENSE.FLAC.txt" />
