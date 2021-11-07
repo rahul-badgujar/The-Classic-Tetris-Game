@@ -15,50 +15,29 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Block.cpp">
+    <ClCompile Include="src\Block.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Game.cpp">
+    <ClCompile Include="src\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameCanvas.cpp">
+    <ClCompile Include="src\GameCanvas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\ImageHandler.cpp">
+    <ClCompile Include="src\ImageHandler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\main.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\SoundHandler.cpp">
+    <ClCompile Include="src\SoundHandler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Tiles.cpp">
+    <ClCompile Include="src\Tiles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Block.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Game.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameBackground.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameCanvas.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\ImageHandler.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\SoundHandler.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Tiles.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="include\SDL2\begin_code.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -294,6 +273,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\SDL2\SDL_vulkan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Block.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameBackground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameCanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ImageHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SoundHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Tiles.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

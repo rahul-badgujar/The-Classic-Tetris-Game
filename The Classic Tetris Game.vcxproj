@@ -148,22 +148,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Block.cpp" />
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Game.cpp" />
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameCanvas.cpp" />
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\ImageHandler.cpp" />
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\main.cpp" />
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\SoundHandler.cpp" />
-    <ClCompile Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Tiles.cpp" />
+    <ClCompile Include="src\Block.cpp" />
+    <ClCompile Include="src\Game.cpp" />
+    <ClCompile Include="src\GameCanvas.cpp" />
+    <ClCompile Include="src\ImageHandler.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\SoundHandler.cpp" />
+    <ClCompile Include="src\Tiles.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Block.h" />
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Game.h" />
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameBackground.h" />
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\GameCanvas.h" />
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\ImageHandler.h" />
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\SoundHandler.h" />
-    <ClInclude Include="D:\Programming Essentials\My Programs\C++\The Classic Tetris Game\Tiles.h" />
+    <ClInclude Include="include\Block.h" />
+    <ClInclude Include="include\Game.h" />
+    <ClInclude Include="include\GameBackground.h" />
+    <ClInclude Include="include\GameCanvas.h" />
+    <ClInclude Include="include\ImageHandler.h" />
     <ClInclude Include="include\SDL2\begin_code.h" />
     <ClInclude Include="include\SDL2\close_code.h" />
     <ClInclude Include="include\SDL2\SDL.h" />
@@ -243,6 +241,8 @@
     <ClInclude Include="include\SDL2\SDL_version.h" />
     <ClInclude Include="include\SDL2\SDL_video.h" />
     <ClInclude Include="include\SDL2\SDL_vulkan.h" />
+    <ClInclude Include="include\SoundHandler.h" />
+    <ClInclude Include="include\Tiles.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
