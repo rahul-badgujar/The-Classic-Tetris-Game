@@ -337,24 +337,6 @@
     <None Include="assets\fonts\read-this.html" />
     <None Include="assets\fonts\typodermic-eula-02-2014.pdf" />
     <None Include=".gitignore" />
-    <None Include="libFLAC-8.dll" />
-    <None Include="libfreetype-6.dll" />
-    <None Include="libjpeg-9.dll" />
-    <None Include="libmodplug-1.dll" />
-    <None Include="libmpg123-0.dll" />
-    <None Include="libogg-0.dll" />
-    <None Include="libopus-0.dll" />
-    <None Include="libopusfile-0.dll" />
-    <None Include="libpng16-16.dll" />
-    <None Include="libtiff-5.dll" />
-    <None Include="libvorbis-0.dll" />
-    <None Include="libvorbisfile-3.dll" />
-    <None Include="libwebp-7.dll" />
-    <None Include="SDL2.dll" />
-    <None Include="SDL2_image.dll" />
-    <None Include="SDL2_mixer.dll" />
-    <None Include="SDL2_ttf.dll" />
-    <None Include="zlib1.dll" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="lib\x64\LICENSE.FLAC.txt" />
@@ -396,10 +378,6 @@
     <Library Include="lib\x86\SDL2_ttf.lib" />
     <Library Include="lib\x86\SDL2main.lib" />
     <Library Include="lib\x86\SDL2test.lib" />
-    <Library Include="libSDL2.dll.a" />
-    <Library Include="libSDL2_image.dll.a" />
-    <Library Include="libSDL2_mixer.dll.a" />
-    <Library Include="libSDL2_ttf.dll.a" />
   </ItemGroup>
   <ItemGroup>
     <Font Include="assets\fonts\Halo3.ttf" />
