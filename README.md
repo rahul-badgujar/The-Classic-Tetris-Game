@@ -27,7 +27,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#checkered_flag-illustrations">Illustrations</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-installation">Building Project</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-setup">Setup</a> &#xa0; | &#xa0;
   <a href="#rocket-resources">Resources</a> &#xa0; | &#xa0;
   <a href="https://github.com/rahul-badgujar" target="_blank">Author</a>
 </p>
@@ -55,7 +55,7 @@ Here are some Illustration of Game
 
 And all rest at [more screens](illustrations/)
 
-## :white_check_mark: Building Project
+## :white_check_mark: Setup
 
 - Fork the repository to your Github Account.
 - Clone the repository to your local machine using `git clone`.
