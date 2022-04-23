@@ -41,6 +41,10 @@ This projects tried to implement the Tetris Game in C++ using SDL2 Graphics Libr
 Fork, Clone and Make your changes!
 Install, Build and Play!!!
 
+| <a href="https://github.com/rahul-badgujar/The-Classic-Tetris-Game" target="_blank"><img src="https://github.com/rahul-badgujar/EShopee-Flutter-eCommerce-App/blob/main/illustrations/source_code_icon.png?raw=true" width="90px"></a> | <a href="https://youtu.be/Nf8Q8_ibK9E" target="_blank"><img src="https://github.com/rahul-badgujar/EShopee-Flutter-eCommerce-App/blob/main/illustrations/youtube_icon.png?raw=true" width="90px"></a> |
+|:---:|:---:|
+|            Source Code            |            Demo Video             |
+
 ## :checkered_flag: Illustrations
 
 Here are some Illustration of Game
