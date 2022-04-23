@@ -4,11 +4,11 @@
 #include "Game.h"
 
 
-class gameBackground // class that handles stuff related to game background
+class GameBackground // class that handles stuff related to game background
 {
     public:
-        gameBackground();
-        virtual ~gameBackground();
+        GameBackground();
+        virtual ~GameBackground();
 
         bool loadBackground(std::string );  //load background
         void drawBackground(); // draw background

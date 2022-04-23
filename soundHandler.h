@@ -2,6 +2,7 @@
 #define SOUNDHANDLER_H
 
 #include "Game.h"
+#include <SDL2/SDL_mixer.h>
 
 
 class soundHandler

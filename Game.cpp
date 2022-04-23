@@ -2,6 +2,7 @@
 #include "GameCanvas.h"
 #include "Block.h"
 #include "soundHandler.h"
+#include <SDL2/SDL_image.h>
 
 // two blocks we use in program
 Block currentBlock; // stores the current moving block

@@ -1,4 +1,5 @@
 #include "imageHandler.h"
+#include <SDL2/SDL_image.h>
 
 imageHandler::imageHandler()
 {

@@ -790,16 +790,16 @@
 1599449540 d:\programming essentials\my programs\c++\the classic tetris game\block.h
 	"Game.h"
 
-1599449540 d:\programming essentials\my programs\c++\the classic tetris game\game.h
+1636210665 d:\programming essentials\my programs\c++\the classic tetris game\game.h
 	<iostream>
 	<string>
 	<sstream>
 	<stdlib.h>
 	<time.h>
-	<SDL.h>
-	<SDL_image.h>
-	<SDL_ttf.h>
-	<SDL_mixer.h>
+	<SDL2/SDL_video.h>
+	<SDL2/SDL_events.h>
+	<SDL2/SDL_render.h>
+	<SDL2/SDL_ttf.h>
 
 1608572888 d:\programming essentials\my programs\c++\the snake game\sdl2\include\sdl2\sdl.h
 	"SDL_main.h"
@@ -1190,8 +1190,9 @@
 	"begin_code.h"
 	"close_code.h"
 
-1599449540 d:\programming essentials\my programs\c++\the classic tetris game\soundhandler.h
+1636210817 d:\programming essentials\my programs\c++\the classic tetris game\soundhandler.h
 	"Game.h"
+	<SDL2/SDL_mixer.h>
 
 1599449540 d:\programming essentials\my programs\c++\the classic tetris game\gamecanvas.h
 	"Game.h"

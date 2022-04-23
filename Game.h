@@ -10,10 +10,10 @@
 #include <sstream>
 #include <stdlib.h>
 #include <time.h>
-#include <SDL.h>
-#include <SDL_image.h>
-#include <SDL_ttf.h>
-#include <SDL_mixer.h>
+#include <SDL2/SDL_video.h>
+#include <SDL2/SDL_events.h>
+#include <SDL2/SDL_render.h>
+#include <SDL2/SDL_ttf.h>
 
 
 
